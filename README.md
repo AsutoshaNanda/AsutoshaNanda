@@ -3,28 +3,37 @@
 AI/ML | Databricks | PySpark | SQL  
 
 <table align="left">
-  <tr >
+  <tr>
+
+  <th>
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+        <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/> LinkedIn
+      </a>
+    </th> 
+
+  <th>
+      <a href="https://platform.stratascratch.com/user/itsasutosha" target="_blank">
+        <img align="center" width="24" height="24" src="https://yt3.googleusercontent.com/aoFggIkCFvmfOpoieLbVXa9FqZNLWuoyBBmfCcdFdRGNwnGW4IH3MhxsWLno_LvpyTeeuV9745E=s900-c-k-c0x00ffffff-no-rj" alt="StrataScratch"/> StrataScratch
+      </a>
+    </th>
+
+  <th>
+      <a href="https://www.kaggle.com/itsasup" target="_blank">
+        <img align="center" width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/> Kaggle
+      </a>
+    </th>
     
   <th>
-   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
-  <a href="" />   LinkedIn
-    </th> 
-        
-  <th>
-       <img align="center" width="24" height="24" src="https://yt3.googleusercontent.com/aoFggIkCFvmfOpoieLbVXa9FqZNLWuoyBBmfCcdFdRGNwnGW4IH3MhxsWLno_LvpyTeeuV9745E=s900-c-k-c0x00ffffff-no-rj"/>
-        <a href="https://platform.stratascratch.com/user/itsasutosha">ScrataScracth</a>
+      <a href="https://x.com/its_asutosha" target="_blank">
+        <img align="center" width="24" height="24" src="https://netolink.com/wp-content/uploads/2024/12/X.png" alt="Twitter"/> 𝕏 (Twitter)
+      </a>
     </th>
-     <th>
-       <img width="24" height="24" align="center" src="https://netolink.com/wp-content/uploads/2024/12/X.png"/>
-      <a href="https://x.com/its_asutosha" />   𝕏 (Twitter)
-    </th> 
+
+
   </tr>
 </table>
-</section>
-</header>  
-<section>  
-<br>
-<br>
+<br><br>
+
 
 ---
 ## About Me 😎
@@ -52,8 +61,11 @@ AI/ML | Databricks | PySpark | SQL
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
+### Cloud
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Cloud
-![Azure Databricks](https://img.shields.io/badge/Azure–Databricks-0089D6?style=for-the-badge&logo=azuredatabricks&logoColor=white)
