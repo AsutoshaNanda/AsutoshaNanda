@@ -19,7 +19,6 @@ AI/ML | Databricks | PySpark | SQL
       <a href="https://x.com/its_asutosha" />   𝕏 (Twitter)
     </th> 
   </tr>
-
 </table>
 </section>
 </header>  
@@ -27,3 +26,10 @@ AI/ML | Databricks | PySpark | SQL
 <br>
 <br>
 
+---
+## About Me 😎
+
+- Passionate about **AI/ML, data engineering**, and real-world problem-solving.
+- Mastered **Databricks** and **SparkSQL** for big data and analytics.
+- Solved 40+ **PySpark** analytical questions on **StrataScratch**.
+- **Hobbies:** Reading, Listening to Music, Editing     
