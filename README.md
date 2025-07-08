@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi I'm Asutosha Nanda
 
-<!--
-**AsutoshaNanda/AsutoshaNanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML | Databricks | PySpark | SQL  
 
-Here are some ideas to get you started:
+<table align="left">
+  <tr >
+    
+  <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
+  <a href="" />   LinkedIn
+    </th> 
+        
+  <th>
+       <img align="center" width="24" height="24" src="https://yt3.googleusercontent.com/aoFggIkCFvmfOpoieLbVXa9FqZNLWuoyBBmfCcdFdRGNwnGW4IH3MhxsWLno_LvpyTeeuV9745E=s900-c-k-c0x00ffffff-no-rj"/>
+        <a href="https://platform.stratascratch.com/user/itsasutosha">ScrataScracth</a>
+    </th>
+     <th>
+       <img width="24" height="24" align="center" src="https://netolink.com/wp-content/uploads/2024/12/X.png"/>
+      <a href="https://x.com/its_asutosha" />   𝕏 (Twitter)
+    </th> 
+  </tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>
+</section>
+</header>  
+<section>  
+<br>
+<br>
+
