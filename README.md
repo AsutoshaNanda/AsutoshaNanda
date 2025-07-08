@@ -1,8 +1,10 @@
-## 👋 Hi I'm Asutosha Nanda
+<p align="center">
+  <img src="Header.png" alt="Header" width="100%">
+</p>
 
-AI/ML | Databricks | PySpark | SQL  
+<h3 align="center">AI/ML | Databricks | PySpark | SQL</h3>
 
-<table align="left">
+<table align="center">
   <tr>
 
   <th>
@@ -28,11 +30,8 @@ AI/ML | Databricks | PySpark | SQL
         <img align="center" width="24" height="24" src="https://netolink.com/wp-content/uploads/2024/12/X.png" alt="Twitter"/> 𝕏 (Twitter)
       </a>
     </th>
-
-
   </tr>
 </table>
-<br><br>
 
 
 ---
