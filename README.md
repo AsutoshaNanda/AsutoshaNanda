@@ -39,7 +39,7 @@
 
 - Passionate about **AI/ML, data engineering**, and real-world problem-solving.
 - Mastered **Databricks** and **SparkSQL** for big data and analytics.
-- Solved 40+ **PySpark** analytical questions on **StrataScratch**.
+- Solved 50+ **PySpark** analytical questions on **StrataScratch**.
 - **Hobbies:** Reading, Listening to Music, Editing
 
 
