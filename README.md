@@ -56,10 +56,11 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Requests](https://img.shields.io/badge/Requests-005f73?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/)
-[![Requests](https://img.shields.io/badge/Requests-005f73?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/)
+[![Urllib](https://img.shields.io/badge/Urllib-008080?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/urllib.html)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ff9900?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Cloud
