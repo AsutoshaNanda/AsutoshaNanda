@@ -37,7 +37,7 @@
 ---
 ## About Me 😎
 
-- Passionate about **AI/ML, data engineering**, and real-world problem-solving.
+- Passionate about **AI/ML, data engineering, web scrapping, summarization**, and real-world problem-solving.
 - Mastered **Databricks** and **SparkSQL** for big data and analytics.
 - Solved 100+ **PySpark** analytical questions on **StrataScratch**.
 - **Hobbies:** Reading, Listening to Music, Editing
