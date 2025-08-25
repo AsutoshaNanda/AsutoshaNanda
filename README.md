@@ -44,12 +44,17 @@
 
 
 ---
-## Core Skills 🧠
+## Core Skills 
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C Progrogramming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Artificial Intelligence
+![OpenAI](https://img.shields.io/badge/OpenAI-00BFAE?style=for-the-badge&logo=openai&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=000000)
+
 
 ### Libraries
 ![Pyspark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
