@@ -8,7 +8,7 @@
   <tr>
 
   <th>
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"> 
         <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/> LinkedIn
       </a>
     </th> 
