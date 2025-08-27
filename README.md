@@ -18,7 +18,7 @@
         <img align="center" width="24" height="24" src="https://yt3.googleusercontent.com/aoFggIkCFvmfOpoieLbVXa9FqZNLWuoyBBmfCcdFdRGNwnGW4IH3MhxsWLno_LvpyTeeuV9745E=s900-c-k-c0x00ffffff-no-rj" alt="StrataScratch"/> StrataScratch
       </a>
     </th>
-
+ 
   <th>
       <a href="https://www.kaggle.com/itsasup" target="_blank">
         <img align="center" width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/> Kaggle
