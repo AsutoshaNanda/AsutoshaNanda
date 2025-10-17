@@ -57,11 +57,15 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-## Artificial Intelligence
+## LLMs & Generative AI Toolkit
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-00BFAE?style=for-the-badge&logo=openai&logoColor=black)
 ![Anthropic](https://img.shields.io/badge/Anthropic-FF6F61?style=for-the-badge&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=000000)
+![Qwen](https://img.shields.io/badge/Qwen-9966CC?style=for-the-badge&logo=alibaba&logoColor=white)
+![Starcoder](https://img.shields.io/badge/Starcoder-3E4E88?style=for-the-badge&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-E6B422?style=for-the-badge&logo=google&logoColor=black)
 
 
 ### Libraries
