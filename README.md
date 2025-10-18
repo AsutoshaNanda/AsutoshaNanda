@@ -4,8 +4,11 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/AsutoshaNanda?style=for-the-badge&label=☆%20STARS&color=ff6b6b)](https://github.com/AsutoshaNanda)
-[![Followers](https://img.shields.io/github/followers/AsutoshaNanda?style=for-the-badge&label=🗿%20FOLLOW&color=dc3545)](https://github.com/AsutoshaNanda)
+[![Followers](https://img.shields.io/github/followers/AsutoshaNanda?style=for-the-badge&label=🗿%20FOLLOW&color=ffff33&labelColor=cccc00)](https://github.com/AsutoshaNanda)
+[![Stars](https://img.shields.io/github/stars/AsutoshaNanda?style=for-the-badge&label=☆%20STARS&color=ff007f&labelColor=cc0066)](https://github.com/AsutoshaNanda)
+
+
+
 
 </div>
 
