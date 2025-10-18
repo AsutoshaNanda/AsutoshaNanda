@@ -47,7 +47,7 @@
 - Active on GitHub with open-source projects exploring **LangChain**, **Hugging Face**, **Vector Databases**, and **Retrieval-Augmented Generation (RAG)** workflows.    
 
 <br>
-<br>
+
 
 <div align="center">
 
@@ -70,6 +70,13 @@
   </table>
 </div>
 
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AsutoshaNanda&theme=neon-dark)](https://git.io/streak-stats)
+
+</div>
 
 ---
 ## Core Skills 
