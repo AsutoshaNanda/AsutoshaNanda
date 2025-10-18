@@ -42,9 +42,15 @@
 - Solved **100+ complex PySpark challenges** on **StrataScratch**, showcasing strong command over distributed computing, query optimization, and data transformation.  
 - Completed **200+ data visualization tasks** using **Matplotlib** and **Seaborn**, with a focus on extracting insights and creating compelling analytical narratives.  
 - Built and deployed **Generative AI** tools like a **Web Content Summarizer** (LLM-based summarization from scraped URLs) and a **Real-Time Meeting Summarizer** (live speech-to-text + summary generator).  
-- Created **AirMate** 🛫 — a multimodal AI-powered flight assistant integrating **OpenAI**, **Claude**, and **Gemini**, featuring multilingual support, booking management, and natural voice interactions.  
-- Developed a **Multilingual Web Brochure Generator** 🌐 that extracts structured company data via scraping and generates dynamic brochures in any target language using LLMs.  
+- Created **AirMate** — a multimodal AI-powered flight assistant integrating **OpenAI**, **Claude**, and **Gemini**, featuring multilingual support, booking management, and natural voice interactions.  
+- Developed a **Multilingual Web Brochure Generator** that extracts structured company data via scraping and generates dynamic brochures in any target language using LLMs.  
 - Active on GitHub with open-source projects exploring **LangChain**, **Hugging Face**, **Vector Databases**, and **Retrieval-Augmented Generation (RAG)** workflows.    
+
+---
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AsutoshaNanda&theme=onedark)](https://github.com/AsutoshaNanda/github-profile-trophy)
+
 
 ---
 ## Core Skills 
