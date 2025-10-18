@@ -55,6 +55,20 @@
 
 </div>
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://beautiful-github-homepage.vercel.app/api?username=AsutoshaNanda&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AsutoshaNanda&layout=compact" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
