@@ -46,7 +46,8 @@
 - Developed a **Multilingual Web Brochure Generator** that extracts structured company data via scraping and generates dynamic brochures in any target language using LLMs.  
 - Active on GitHub with open-source projects exploring **LangChain**, **Hugging Face**, **Vector Databases**, and **Retrieval-Augmented Generation (RAG)** workflows.    
 
----
+<br>
+<br>
 
 <div align="center">
 
