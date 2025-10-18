@@ -48,8 +48,12 @@
 
 ---
 
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AsutoshaNanda&theme=onedark)](https://github.com/AsutoshaNanda/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AsutoshaNanda&theme=monokai&column=4&margin-w=15&margin-h=15)](https://github.com/AsutoshaNanda/github-profile-trophy)
+
+</div>
+
 
 
 ---
