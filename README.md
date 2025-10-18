@@ -44,8 +44,7 @@
 - Built and deployed **Generative AI** tools like a **Web Content Summarizer** (LLM-based summarization from scraped URLs) and a **Real-Time Meeting Summarizer** (live speech-to-text + summary generator).  
 - Created **AirMate** 🛫 — a multimodal AI-powered flight assistant integrating **OpenAI**, **Claude**, and **Gemini**, featuring multilingual support, booking management, and natural voice interactions.  
 - Developed a **Multilingual Web Brochure Generator** 🌐 that extracts structured company data via scraping and generates dynamic brochures in any target language using LLMs.  
-- Active on GitHub with open-source projects exploring **LangChain**, **Hugging Face**, **Vector Databases**, and **Retrieval-Augmented Generation (RAG)** workflows.  
-- **Hobbies:** Reading 📚, Listening to Music 🎧, Editing 🎬  
+- Active on GitHub with open-source projects exploring **LangChain**, **Hugging Face**, **Vector Databases**, and **Retrieval-Augmented Generation (RAG)** workflows.    
 
 ---
 ## Core Skills 
