@@ -97,7 +97,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Programming Concepts
-![OOPS](https://img.shields.io/badge/OOP-4B8BBE?style=flat&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPS-c3214a?style=flat&logoColor=white)
 
 ### Big Data Tech
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
@@ -147,6 +147,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-000000?style=flat&logo=gnu-bash&logoColor=white)
+
 
 ---
 ## Github Activity :
