@@ -97,7 +97,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Programming Concepts
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat&logoColor=white)
+![OOPS](https://img.shields.io/badge/OOP-4B8BBE?style=flat&logoColor=white)
 
 ### Big Data Tech
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
