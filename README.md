@@ -89,44 +89,61 @@
 ## Core Skills 
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![C Progrogramming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-## LLMs & Generative AI Toolkit
-
-![OpenAI](https://img.shields.io/badge/OpenAI-00BFAE?style=for-the-badge&logo=openai&logoColor=black)
-![Anthropic](https://img.shields.io/badge/Anthropic-FF6F61?style=for-the-badge&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=000000)
-![Gemma](https://img.shields.io/badge/Gemma-E6B422?style=for-the-badge&logo=google&logoColor=black)
-![Qwen](https://img.shields.io/badge/Qwen-9966CC?style=for-the-badge&logo=alibaba&logoColor=white)
-![Starcoder](https://img.shields.io/badge/Starcoder-3E4E88?style=for-the-badge&logoColor=white)
-
-
-## Libraries
-
-![Pyspark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Requests](https://img.shields.io/badge/Requests-005f73?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/)
-[![Urllib](https://img.shields.io/badge/Urllib-008080?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/urllib.html)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ff9900?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Cloud
-![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C Progrogramming](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### Big Data Tech :
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+### Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-36B7B7?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Urllib](https://img.shields.io/badge/Urllib-3776AB?style=flat&logo=python&logoColor=white)
+![Python-dotenv](https://img.shields.io/badge/Python--dotenv-3776AB?style=flat&logo=python&logoColor=white)
+![Random](https://img.shields.io/badge/Random-3776AB?style=flat&logo=python&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white)
+![Pycountry](https://img.shields.io/badge/Pycountry-3776AB?style=flat&logo=python&logoColor=white)
+![PIL](https://img.shields.io/badge/PIL-3776AB?style=flat&logo=python&logoColor=white)
+![Pydub](https://img.shields.io/badge/Pydub-3776AB?style=flat&logo=python&logoColor=white)
+
+
+### Generative AI & LLMs:
+![OpenAI](https://img.shields.io/badge/OpenAI-00BFAE?style=flat&logo=openai&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-FF6F61?style=flat&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Gemma](https://img.shields.io/badge/Gemma-E6B422?style=flat&logo=google&logoColor=black)
+![Qwen](https://img.shields.io/badge/Qwen-9966CC?style=flat&logo=alibaba&logoColor=white)
+![Starcoder](https://img.shields.io/badge/Starcoder-3E4E88?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=000000)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-FF6B6B?style=flat&logoColor=white)
+
+### Cloud
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+### DevOps
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 ## Github Activity :
@@ -134,3 +151,5 @@
 <!-- spacer to avoid header/image border -->
 
 [![Asutosha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsutoshaNanda&theme=merko&point=ff0000&text_color=FFD700&title_color=FFD700&border_color=ff69b4&area=true&area_color=ff6600)](https://github.com/AsutoshaNanda/)
+
+---
