@@ -2,7 +2,7 @@
   <img src="Header.png" alt="Header" width="100%"> 
 </p>
 
-<h3 align="center"> Generative AI | PySpark | Python | Python Libraries | Databricks| SQL </h3>
+<h3 align="center"> Generative AI | PySpark | Python | Python Libraries | Databricks| SQL </h3> 
 
 
 <table align="center">
