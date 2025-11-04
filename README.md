@@ -20,12 +20,7 @@
       </a>
     </th>
  
-  <th>
-      <a href="https://www.kaggle.com/itsasup" target="_blank">
-        <img align="center" width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/> Kaggle
-      </a>
-    </th>
-    
+   
   <th>
       <a href="https://x.com/its_asutosha" target="_blank">
         <img align="center" width="24" height="24" src="https://netolink.com/wp-content/uploads/2024/12/X.png" alt="Twitter"/> 𝕏 (Twitter)
