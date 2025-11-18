@@ -37,19 +37,16 @@
 </div>
 
 ---
+
 ## About Me 😎
 
-- Deeply passionate about **Artificial Intelligence, Machine Learning, Data Engineering**, and solving real-world problems through **web scraping**, **text summarization**, and intelligent automation.  
-- Hands-on expertise in building data-driven solutions using **Apache Spark**, with advanced proficiency in **Databricks** and **SparkSQL** for scalable big data analytics and ETL workflows.  
-- Solved **100+ complex PySpark challenges** on **StrataScratch**, showcasing strong command over distributed computing, query optimization, and data transformation.  
-- Completed **200+ data visualization tasks** using **Matplotlib** and **Seaborn**, with a focus on extracting insights and creating compelling analytical narratives.  
-- Built and deployed **Generative AI** tools like a **Web Content Summarizer** (LLM-based summarization from scraped URLs) and a **Real-Time Meeting Summarizer** (live speech-to-text + summary generator).  
-- Created **AirMate** — a multimodal AI-powered flight assistant integrating **OpenAI**, **Claude**, and **Gemini**, featuring multilingual support, booking management, and natural voice interactions.  
-- Developed a **Multilingual Web Brochure Generator** that extracts structured company data via scraping and generates dynamic brochures in any target language using LLMs.  
-- Active on GitHub with open-source projects exploring **LangChain**, **Hugging Face**, **Vector Databases**, and **Retrieval-Augmented Generation (RAG)** workflows.    
- 
-<br>
+* I train **LLMs** for a living and believe **RAG** is the key to unlocking true context. (Yes, I speak fluent Vector Database.)
+* Building **Intelligent Agents** that practically think for themselves—if it can be automated, I'm already coding it.
+* My playground is **Python**, **PySpark**, & **Azure Databricks**—where big data meets scalable intelligence.
+* I ship! Taking projects from messy data (web scraping included 🕷️) straight to beautiful interactive **Gradio** apps and robust APIs.
+* Goal: Make AI less "future tech" and more "**working product**."
 
+---
 
 <div align="center">
 
