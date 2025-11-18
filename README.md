@@ -43,7 +43,7 @@
 * I train **LLMs** for a living and believe **RAG** is the key to unlocking true context. (Yes, I speak fluent Vector Database.)
 * Building **Intelligent Agents** that practically think for themselves—if it can be automated, I'm already coding it.
 * My playground is **Python**, **PySpark**, & **Azure Databricks**—where big data meets scalable intelligence.
-* I ship! Taking projects from messy data (web scraping included 🕷️) straight to beautiful interactive **Gradio** apps and robust APIs.
+* I ship! Taking projects from messy data straight to beautiful interactive **Gradio** apps and robust APIs.
 * Goal: Make AI less "future tech" and more "**working product**."
 
 ---
