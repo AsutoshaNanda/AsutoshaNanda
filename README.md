@@ -34,6 +34,7 @@
 [![Followers](https://img.shields.io/github/followers/AsutoshaNanda?style=for-the-badge&label=🗿%20FOLLOW&color=ffff33&labelColor=cccc00)](https://github.com/AsutoshaNanda)
 [![Stars](https://img.shields.io/github/stars/AsutoshaNanda?style=for-the-badge&label=☆%20STARS&color=ff007f&labelColor=cc0066)](https://github.com/AsutoshaNanda)
 
+
 </div>
 
 ---
@@ -47,6 +48,7 @@
 * Goal: Make AI less "future tech" and more "**working product**."
 
 ---
+
 
 <div align="center">
 
