@@ -13,13 +13,20 @@
         <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/> LinkedIn
       </a>
     </th> 
+  
 
+  <th>
+      <a href="https://leetcode.com/u/asutoshananda/" target="_blank">
+        <img align="center" width="24" height="24" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt=""/> Leetcode
+      </a>
+    </th>
+    
   <th>
       <a href="https://platform.stratascratch.com/user/itsasutosha" target="_blank">
         <img align="center" width="24" height="24" src="https://yt3.googleusercontent.com/aoFggIkCFvmfOpoieLbVXa9FqZNLWuoyBBmfCcdFdRGNwnGW4IH3MhxsWLno_LvpyTeeuV9745E=s900-c-k-c0x00ffffff-no-rj" alt="StrataScratch"/> StrataScratch
       </a>
     </th>
- 
+
    
   <th>
       <a href="https://x.com/its_asutosha" target="_blank">
