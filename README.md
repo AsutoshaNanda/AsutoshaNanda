@@ -23,7 +23,7 @@
     
   <th>
       <a href="https://platform.stratascratch.com/user/itsasutosha" target="_blank">
-        <img align="center" width="24" height="24" src="https://yt3.googleusercontent.com/aoFggIkCFvmfOpoieLbVXa9FqZNLWuoyBBmfCcdFdRGNwnGW4IH3MhxsWLno_LvpyTeeuV9745E=s900-c-k-c0x00ffffff-no-rj" alt="StrataScratch"/> StrataScratch
+        <img align="center" width="24" height="24" src="https://yt3.googleusercontent.com/aoFggIkCFvmfOpoieLbVXa9FqZNLWuoyBBmfCcdFdRGNwnGW4IH3MhxsWLno_LvpyTeeuV9745E=s900-c-k-c0x00ffffff-no-rj" alt=""/> StrataScratch
       </a>
     </th>
 
