@@ -37,12 +37,11 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-- **Generative AI &amp; Data Engineer** based in **Bangalore, India** — building **multi-agent LLM applications** (OpenAI, Claude, Gemini) and **RAG** pipelines, where retrieval unlocks true context. (Yes, I speak fluent Vector Database.)
-- Building **intelligent agents** that practically think for themselves—if it can be automated, I'm already coding it.
-- My playground is **Python**, **PySpark** &amp; **Azure Databricks**—big data meets scalable intelligence on a **Lakehouse / Medallion** architecture.
-- Full-stack when it counts: **Spring Boot + React + REST APIs**, tested to **84% coverage** with JUnit &amp; Mockito.
-- I ship! Taking projects from messy data straight to interactive apps and robust APIs.
-- Goal: make AI less "future tech" and more "**working product**."
+- Generative AI &amp; Data Engineer in Bangalore. Currently a Systems Engineer Intern at Infosys and a final-year CSE student at KIIT.
+- Most of my work is on LLM applications — multi-agent systems, RAG, and the retrieval and vector-store plumbing that makes them actually reliable.
+- On the data side I build Lakehouse / Medallion pipelines with Python, PySpark and Databricks on Azure.
+- I go full-stack when a project calls for it: Spring Boot, React and REST APIs.
+- Currently digging deeper into agent design and evaluation. Happy to talk shop on GenAI or data work.
 
 <br clear="both"/>
 
