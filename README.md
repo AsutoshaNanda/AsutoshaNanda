@@ -171,10 +171,5 @@
 
 ## Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
-<p align="center"><i>Turning messy data and frontier models into working AI products. Let's build something intelligent.</i></p>
