@@ -57,24 +57,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AsutoshaNanda&theme=monokai&column=4&margin-w=15&margin-h=15)](https://github.com/AsutoshaNanda/github-profile-trophy)
-
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="Profile details" />
 </div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AsutoshaNanda&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsutoshaNanda&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Most used languages" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most commit language" />
 </div>
 
 <br>

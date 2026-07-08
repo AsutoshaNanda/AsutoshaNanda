@@ -1,0 +1,30 @@
+name: Profile Summary Cards
+
+on:
+  # Regenerate the cards shortly after changes land on main.
+  push:
+    branches:
+      - main
+  # Refresh once a day so the stats stay current.
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow running it on demand from the Actions tab.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          THEME: radical
