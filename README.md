@@ -169,7 +169,5 @@
 
 [![Asutosha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsutoshaNanda&theme=merko&point=ff0000&text_color=FFD700&title_color=FFD700&border_color=ff69b4&area=true&area_color=ff6600)](https://github.com/AsutoshaNanda/)
 
-## Dev Quote
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
